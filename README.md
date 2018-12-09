@@ -1,2 +1,2 @@
-# 2270-Final-Project
-This is a porject we created that uses heaps to make an animal shelter database that stores and sorts information based on the time animal spends at the shelter
+# 2270-Final-Project: Animal Shelter
+This is a project we created that uses heaps to make an animal shelter database that stores and sorts information based on the time animal spends at the shelter
