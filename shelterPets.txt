@@ -1,0 +1,27 @@
+dog,7,blue,coonhound,40
+dog,2,calvin,german shorthaired pointer,37
+dog,8,mona,greyhound,30
+dog,4,ivy,bull terrier, 21
+dog,7,iris,siberian husky mix,16
+dog,6,lucia,chihuahua,15
+dog,1,tristan,english bulldog,13
+dog,1,winston,chihuaua,13
+dog,1,bessie,pit bull terrier,6
+dog,1,coco,english bulldog,10
+dog,1,daisy,anatolian shepherd,4
+dog,1,uno,akita mix,17
+dog,2,brownie,catahoula leopard dog,14
+dog,1,dax,shiba inu,3
+dog,8,oliver,alaskan klee kai,23
+cat,4,chloe,domestic shorthair,51
+cat,2,pete,domestic shorthair,43
+cat,1,emmy,domestic medium hair,17
+cat,5,wizard,domestic longhair,39
+cat,5,gwen,domestic shorthair,8
+cat,3,gordo,domestic longhair,67
+cat,6,roza,calico,85
+cat,17,sassy,domestic medium hair,18
+cat,6,rocket,domestic shorthair mix,32
+cat,10,count catula,domestic horthair,69
+cat,1,killian,bengal,6
+cat,3,snowflake,siberian,14
